@@ -1,0 +1,22 @@
+.weather-bar {
+  color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  font-size: 13px;
+}
+
+#weather {
+  margin-bottom: 5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+#weather span:last-child {
+  font-size: 11px;
+}
+
+#air-quality {
+  font-size: 12px;
+}

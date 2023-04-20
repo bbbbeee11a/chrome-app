@@ -1,0 +1,16 @@
+.time-management {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 70px;
+  color: white;
+}
+
+#calendar {
+  font-weight: 500;
+}
+
+#clock {
+  font-weight: 500;
+  font-size: 100px;
+}

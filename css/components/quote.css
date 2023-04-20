@@ -1,0 +1,16 @@
+#quote {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+}
+
+#quote span:first-child {
+  font-size: 15px;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+#quote span:last-child {
+  font-size: 12px;
+}
